@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  overflow: hidden;
+}
+
+.webgl {
+  background-color: rgb(51, 50, 52);
+  position: fixed;
+  top: 0;
+  left: 0;
+  outline: none;
+}
